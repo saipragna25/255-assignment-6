@@ -9,6 +9,7 @@ b) Write colab to demonstrate frequent pattern mining technique using databricks
 
 solution:
 
+https://colab.research.google.com/drive/17S-_ROiYG3PCJZjLxmCjPVyViO9xJnvh?authuser=3#scrollTo=XX4Ydce3nW9b&uniqifier=2
 
 
 
